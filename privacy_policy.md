@@ -8,7 +8,7 @@ dikembangkan oleh **Yuichizx**.
 Jika ada pertanyaan tentang Privacy Policy ini atau permintaan terkait data,
 hubungi:
 
-- Email: `[ISI_EMAIL_KONTAK_DEVELOPER]`
+- Email: `ilhamvibe4@gmail.com`
 
 ## Ringkasan
 
