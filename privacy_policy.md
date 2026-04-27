@@ -3,7 +3,7 @@
 Terakhir diperbarui: 27 April 2026
 
 Privacy Policy ini berlaku untuk aplikasi **Finance Habit Tracker** yang
-dikembangkan oleh **Yuichizx**.
+dikembangkan oleh **Yuichizx** atau **IlhamVibeCode**.
 
 Jika ada pertanyaan tentang Privacy Policy ini atau permintaan terkait data,
 hubungi:
