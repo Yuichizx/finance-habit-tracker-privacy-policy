@@ -158,6 +158,7 @@ Pengguna dapat:
 - Menghapus data lokal dengan menghapus data aplikasi dari pengaturan perangkat
   atau menghapus aplikasi.
 - Meminta penghapusan data cloud dengan menghubungi developer.
+- Mengikuti instruksi penghapusan akun/data di `docs/account_deletion.md`.
 - Mengubah atau menolak izin notifikasi melalui pengaturan perangkat.
 - Keluar dari Google melalui menu Profile di aplikasi.
 
